@@ -1,3 +1,3 @@
 # D-rating-API
-npm i 
-npm start
+#npm i 
+#npm start
